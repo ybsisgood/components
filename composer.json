@@ -2,8 +2,8 @@
 	"name": "ybsisgood/components",
 	"description": "Components for yii2 Extensions",
 	"require": {
-		"ybsisgood/image": "dev-main",
-		"ybsisgood/helpers": "dev-main"
+		"ybsisgood/image": "^1.0.0",
+		"ybsisgood/helpers": "^1.0.0"
 	},
 	"autoload": {
 		"psr-4": {
